@@ -1,3 +1,20 @@
+/*****************************************************************************
+*                    
+*  Author:           Isaiah Corrales
+*  Email:            ijcorrales0414@my.msutexas.edu
+*  Label:            3013-Algorithms/Assignments/04-P02
+*  Title:            Linear Search using JSON and GETCH
+*  Course:           3013-Algorithms
+*  Semester:         Spring 2024
+* 
+*  Description:
+*        This program autosuggests words based on the characters that are typed into the console. 
+* 
+*  Usage:
+*        Wait for it to load, may take a while if on replit
+* 
+*  Files:          dictionary.json & words.txt
+*****************************************************************************/
 /**
  * This program uses a "getch" function which means "get character".
  * However, getch does not print the character to the terminal, it
